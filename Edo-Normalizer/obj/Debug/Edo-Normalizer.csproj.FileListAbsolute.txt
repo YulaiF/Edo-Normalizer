@@ -1,0 +1,12 @@
+C:\Users\Developer\source\repos\Edo-Normalizer\bin\Debug\Edo-Normalizer.exe.config
+C:\Users\Developer\source\repos\Edo-Normalizer\bin\Debug\Edo-Normalizer.exe
+C:\Users\Developer\source\repos\Edo-Normalizer\bin\Debug\Edo-Normalizer.pdb
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo-Normalizer.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo-Normalizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo_Normalizer.Form1.resources
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo_Normalizer.Properties.Resources.resources
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo-Normalizer.csproj.GenerateResource.cache
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo-Normalizer.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo-Normalizer.exe
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo-Normalizer.pdb
+C:\Users\Developer\source\repos\Edo-Normalizer\obj\Debug\Edo_Normalizer.AboutBox1.resources
